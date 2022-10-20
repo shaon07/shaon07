@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://shaontechnical.blogspot.com/](https://shaontechnical.blogspot.com/)
 
-- 📝 I regularly write articles on [https://www.techdiary.dev/alishaon078lxlf](https://www.techdiary.dev/alishaon078lxlf)
+- 📝 I regularly write articles on [https://dev.to/shaon07](https://dev.to/shaon07)
 
 - 💬 Ask me about **React.JS - Next.JS - Redux - TypeScript - JavaScript**
 
 - 📫 How to reach me **alishaon078@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WuHOUJ1Ej7r17rwcAU3-VPmPGVRcOlYp/view?usp=sharing](https://drive.google.com/file/d/1WuHOUJ1Ej7r17rwcAU3-VPmPGVRcOlYp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eRGr9TD4QhLrN6eZQM8LjIOJb-_jlw8z/view?usp=sharing](https://drive.google.com/file/d/1eRGr9TD4QhLrN6eZQM8LjIOJb-_jlw8z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
