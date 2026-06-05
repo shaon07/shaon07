@@ -33,7 +33,7 @@
   - Modern scheduling and planning application
   - **Tech Stack**: TypeScript, React, Next.js
   
-- **[Calendry](https://github.com/Open-Source-BD/calendry)** 📆 **[Live Demo](https://calendry-ashy.vercel.app)**
+- **[Calendry](https://github.com/Open-Source-BD/calendry)** 📆 **[Live Demo](https://calendri.vercel.app)**
   - Advanced calendar management system for scheduling and event coordination
   - **Tech Stack**: TypeScript, React, Next.js
 
