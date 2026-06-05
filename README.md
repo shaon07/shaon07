@@ -7,8 +7,8 @@
 
 ## 🌟 About Me
 
-- 🌱 I'm currently can**Node.js, Express, SQL, React-Native, Next.js, TypeScript**
-- 🌱 I'm currently Learning**Rust - Axum - SEA-ORM - System-Design**
+- 🌱 I'm currently **Node.js, Express, SQL, React-Native, Next.js, TypeScript**
+- 🌱 I'm currently Learning **Rust - Axum - SEA-ORM - System-Design**
 - 👯 I'm looking to collaborate on **Full-stack web applications and open-source projects**
 - 🤝 I'm an active contributor to **[Open-Source-BD](https://github.com/Open-Source-BD)** organization
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/shaon07)**
