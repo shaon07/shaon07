@@ -7,12 +7,13 @@
 
 ## 🌟 About Me
 
-- 🌱 I'm currently learning **Rust, Node.js, Express, MongoDB, React-Native, Next.js, TypeScript**
+- 🌱 I'm currently can**Node.js, Express, SQL, React-Native, Next.js, TypeScript**
+- 🌱 I'm currently Learning**Rust - Axum - SEA-ORM - System-Design**
 - 👯 I'm looking to collaborate on **Full-stack web applications and open-source projects**
 - 🤝 I'm an active contributor to **[Open-Source-BD](https://github.com/Open-Source-BD)** organization
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/shaon07)**
 - 📝 I regularly write articles on **[Dev.to](https://dev.to/shaon07)**
-- 💬 Ask me about **React.JS - Next.JS - Redux - TypeScript - JavaScript - Node.js - Express - MongoDB - Rust**
+- 💬 Ask me about **Rust - React.JS - Next.JS - Redux - TypeScript - JavaScript - Node.js - Express - SQL**
 - 📫 How to reach me: **alishaon078@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1eRGr9TD4QhLrN6eZQM8LjIOJb-_jlw8z/view?usp=sharing)**
 
