@@ -64,7 +64,7 @@
 
 ---
 
-## 🎯 Professional Projects
+## 🎯 Daily fun's
 
 ### E-Commerce Solutions
 - **[Buniyadi](https://github.com/shaon07/buniyadi)** - Full-featured e-commerce website (JavaScript)
