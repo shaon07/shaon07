@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaon07" alt="shaon07" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js - Express - MongoDB - React-Native -**
+- 🌱 I'm currently learning **Node.js - Express - MongoDB - React-Native -**
 
-- 👯 I’m looking to collaborate on [E-Commerce WebApp](https://v0-e-commerce-app-creation-ruddy.vercel.app)
+- 👯 I'm looking to collaborate on [E-Commerce WebApp](https://v0-e-commerce-app-creation-ruddy.vercel.app)
 
-- 🤝 I’m looking for help with [BD.JS Frontend Library](https://bd-js-22873.web.app/index.html)
+- 🤝 I'm looking for help with [BD.JS Frontend Library](https://bd-js-22873.web.app/index.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaon07](https://github.com/shaon07)
 
